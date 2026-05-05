@@ -19,29 +19,22 @@ public:
     }
     
     void put(int key, int value) {
+        if(ourmap.find(key)!=ourmap.end()) {
+            dll.erase(ourmap[key]);
+            ourmap.erase(key);
+        } 
         if(dll.size()<capacity) {
-            if(ourmap.find(key)!=ourmap.end()) {
-                dll.erase(ourmap[key]);
-                ourmap.erase(key);
-            }
             dll.push_front({key,value});
             ourmap[key]=dll.begin();
         } else {
-            if (ourmap.find(key)==ourmap.end()) {
-                auto it = dll.end();
-                it--;
-                int k = it->first;
-                int v = it->second;
-                dll.erase(it);
-                ourmap.erase(k);
-                dll.push_front({key,value});
-                ourmap[key]=dll.begin();
-            } else {
-                dll.erase(ourmap[key]);
-                ourmap.erase(key);
-                dll.push_front({key,value});
-                ourmap[key]=dll.begin();
-            }
+            auto it = dll.end();
+            it--;
+            int k = it->first;
+            int v = it->second;
+            dll.erase(it);
+            ourmap.erase(k);
+            dll.push_front({key,value});
+            ourmap[key]=dll.begin();
         }
     }
 };
