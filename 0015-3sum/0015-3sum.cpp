@@ -4,6 +4,7 @@ public:
         vector<vector<int>> ans;
         while(i<j) {
             int t = nums[i]+nums[j];
+            if((nums[i]>0 && target<0) || (nums[j]<0 && target>0)) return ans;
             if(t>target) j--;
             else if(t<target) i++;
             else {
