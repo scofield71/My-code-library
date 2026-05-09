@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/scofield71/My-code-library/tree/master/0146-lru-cache) |
+| [0219-contains-duplicate-ii](https://github.com/scofield71/My-code-library/tree/master/0219-contains-duplicate-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/scofield71/My-code-library/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/scofield71/My-code-library/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/scofield71/My-code-library/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/scofield71/My-code-library/tree/master/0219-contains-duplicate-ii) |
 | [0881-boats-to-save-people](https://github.com/scofield71/My-code-library/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
@@ -77,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/scofield71/My-code-library/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/scofield71/My-code-library/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
