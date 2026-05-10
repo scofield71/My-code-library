@@ -1,35 +1,27 @@
 class Solution {
 public:
-    bool isPrime(int n) {
-       
-        if (n <= 1) return false;
-        
-        if (n <= 3) return true;
-       
-        if (n % 2 == 0 || n % 3 == 0) return false;
-    
-        for (int i = 5; i * i <= n; i += 6) {
-            if (n % i == 0 || n % (i + 2) == 0)
-                return false;
-        }
-        return true;
-    }
     long long minArraySum(vector<int>& nums) {
         sort(nums.begin(),nums.end());
-        long long ans = 0;
-        for(int i=nums.size()-1;i>=0;i--) {
-            long long val = nums[i];
-            if(isPrime(val) && nums[0]!=1) {
-                ans+=val;
-                continue;
-            }
-            for(int j=0;j<=i;j++) {
-                if(nums[i]%nums[j]==0) {
-                    val = nums[j];
-                    break;
+        unordered_map<int,int> ourmap;
+        set<int> processed;
+        for(auto it:nums) ourmap[it]++;
+        for(int i=0;i<nums.size();i++) {
+            if (processed.find(nums[i])==processed.end()) {
+                int val = nums[i]*2;
+                while(val<=1e5 && val<=nums[nums.size()-1]) {
+                    if(ourmap[val]>0) {
+                        ourmap[nums[i]]+=ourmap[val];
+                        ourmap[val]=0;
+                    }
+                    val+=nums[i];
                 }
+                processed.insert(nums[i]);
             }
-            ans+=val;
+        }
+        long long ans = 0;
+        for(auto it:ourmap) {
+            long long p = (long long)((long long)it.first*(long long)it.second);
+            ans+=p;
         }
         return ans;
     }
