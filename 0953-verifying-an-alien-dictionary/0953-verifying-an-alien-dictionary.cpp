@@ -18,10 +18,8 @@ public:
         for(int i=0;i<order.length();i++) {
             weight[order[i]-'a']=i;
         }
-        for(int i=0;i<words.size();i++) {
-            for(int j=i+1;j<words.size();j++) {
-                if(!isInorder(words[i],words[j],weight)) return false;
-            }
+        for(int i=1;i<words.size();i++) {
+            if(!isInorder(words[i-1],words[i],weight)) return false;
         }
         return true;
     }
