@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/scofield71/My-code-library/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/scofield71/My-code-library/tree/master/0219-contains-duplicate-ii) |
 | [0463-island-perimeter](https://github.com/scofield71/My-code-library/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/scofield71/My-code-library/tree/master/0695-max-area-of-island) |
 | [0881-boats-to-save-people](https://github.com/scofield71/My-code-library/tree/master/0881-boats-to-save-people) |
 | [0953-verifying-an-alien-dictionary](https://github.com/scofield71/My-code-library/tree/master/0953-verifying-an-alien-dictionary) |
 ## Sorting
@@ -93,18 +94,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/scofield71/My-code-library/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/scofield71/My-code-library/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/scofield71/My-code-library/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/scofield71/My-code-library/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/scofield71/My-code-library/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/scofield71/My-code-library/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/scofield71/My-code-library/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/scofield71/My-code-library/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/scofield71/My-code-library/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/scofield71/My-code-library/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/scofield71/My-code-library/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
