@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/scofield71/My-code-library/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/scofield71/My-code-library/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/scofield71/My-code-library/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/scofield71/My-code-library/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/scofield71/My-code-library/tree/master/0219-contains-duplicate-ii) |
 | [0463-island-perimeter](https://github.com/scofield71/My-code-library/tree/master/0463-island-perimeter) |
 | [0881-boats-to-save-people](https://github.com/scofield71/My-code-library/tree/master/0881-boats-to-save-people) |
@@ -90,13 +91,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/scofield71/My-code-library/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/scofield71/My-code-library/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/scofield71/My-code-library/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/scofield71/My-code-library/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/scofield71/My-code-library/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/scofield71/My-code-library/tree/master/0463-island-perimeter) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/scofield71/My-code-library/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
