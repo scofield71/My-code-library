@@ -6,6 +6,8 @@ public:
         visited[node]=1;
         cycleVisited[node]=1;
         for(int i=0;i<outDegree[node].size();i++) {
+            if(cycleVisited[outDegree[node][i]]==1) return true;
+            if(visited[outDegree[node][i]]==1) continue;
             bool tmpCycle = isCyclic(outDegree,cycleVisited,visited,outDegree[node][i]);
             if(tmpCycle) return true;
         }
