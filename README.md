@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/scofield71/My-code-library/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/scofield71/My-code-library/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/scofield71/My-code-library/tree/master/0463-island-perimeter) |
+| [0543-diameter-of-binary-tree](https://github.com/scofield71/My-code-library/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/scofield71/My-code-library/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/scofield71/My-code-library/tree/master/0695-max-area-of-island) |
 | [1462-course-schedule-iv](https://github.com/scofield71/My-code-library/tree/master/1462-course-schedule-iv) |
@@ -208,8 +209,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/scofield71/My-code-library/tree/master/0094-binary-tree-inorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/scofield71/My-code-library/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/scofield71/My-code-library/tree/master/0094-binary-tree-inorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/scofield71/My-code-library/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
