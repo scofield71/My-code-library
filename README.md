@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/scofield71/My-code-library/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/scofield71/My-code-library/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/scofield71/My-code-library/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/scofield71/My-code-library/tree/master/0018-4sum) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/scofield71/My-code-library/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/scofield71/My-code-library/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/scofield71/My-code-library/tree/master/0540-single-element-in-a-sorted-array) |
 ## Dynamic Programming
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/scofield71/My-code-library/tree/master/0090-subsets-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/scofield71/My-code-library/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
