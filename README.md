@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/scofield71/My-code-library/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/scofield71/My-code-library/tree/master/0094-binary-tree-inorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/scofield71/My-code-library/tree/master/0094-binary-tree-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/scofield71/My-code-library/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/scofield71/My-code-library/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/scofield71/My-code-library/tree/master/0200-number-of-islands) |
@@ -202,4 +204,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/scofield71/My-code-library/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/scofield71/My-code-library/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/scofield71/My-code-library/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
