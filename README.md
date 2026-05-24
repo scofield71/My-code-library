@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/scofield71/My-code-library/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/scofield71/My-code-library/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/scofield71/My-code-library/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/scofield71/My-code-library/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/scofield71/My-code-library/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/scofield71/My-code-library/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/scofield71/My-code-library/tree/master/0200-number-of-islands) |
@@ -156,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/scofield71/My-code-library/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/scofield71/My-code-library/tree/master/0210-course-schedule-ii) |
 | [1462-course-schedule-iv](https://github.com/scofield71/My-code-library/tree/master/1462-course-schedule-iv) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/scofield71/My-code-library/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/scofield71/My-code-library/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
