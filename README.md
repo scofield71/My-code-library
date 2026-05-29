@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/scofield71/My-code-library/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/scofield71/My-code-library/tree/master/0540-single-element-in-a-sorted-array) |
 | [0695-max-area-of-island](https://github.com/scofield71/My-code-library/tree/master/0695-max-area-of-island) |
+| [0735-asteroid-collision](https://github.com/scofield71/My-code-library/tree/master/0735-asteroid-collision) |
 | [0752-open-the-lock](https://github.com/scofield71/My-code-library/tree/master/0752-open-the-lock) |
 | [0881-boats-to-save-people](https://github.com/scofield71/My-code-library/tree/master/0881-boats-to-save-people) |
 | [0953-verifying-an-alien-dictionary](https://github.com/scofield71/My-code-library/tree/master/0953-verifying-an-alien-dictionary) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/scofield71/My-code-library/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/scofield71/My-code-library/tree/master/0094-binary-tree-inorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/scofield71/My-code-library/tree/master/0173-binary-search-tree-iterator) |
+| [0735-asteroid-collision](https://github.com/scofield71/My-code-library/tree/master/0735-asteroid-collision) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/scofield71/My-code-library/tree/master/0206-reverse-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/scofield71/My-code-library/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
