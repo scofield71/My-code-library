@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> asteroidCollision(vector<int>& asteroids) {
+        /* Hustling for switch memory */
         stack<int> stk;
         for(auto& it:asteroids) {
             if(it>=0) stk.push(it);
