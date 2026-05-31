@@ -10,19 +10,11 @@ public:
         return mem[curNdx]=false;
     }
     bool canJump(vector<int>& nums) {
-        // vector<int> mem(nums.size()+1,-1);
-        // return isPossible(nums,0,mem);
-        vector<bool> dp(nums.size()+1,false);
-        dp[0]=true;
+        int range = nums[0];
         for(int i=1;i<nums.size();i++) {
-            
-            for(int j=i-1;j>=0;j--) {
-                if(dp[j] && j+nums[j]>=i) {
-                    dp[i]=true;
-                    break;
-                } 
-            }
+            if(range<i) return false;
+            range = max(range,i+nums[i]);
         }
-        return dp[nums.size()-1];
+        return true;
     }
 };
