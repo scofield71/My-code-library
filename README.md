@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/scofield71/My-code-library/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/scofield71/My-code-library/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/scofield71/My-code-library/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/scofield71/My-code-library/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/scofield71/My-code-library/tree/master/0881-boats-to-save-people) |
 | [1642-furthest-building-you-can-reach](https://github.com/scofield71/My-code-library/tree/master/1642-furthest-building-you-can-reach) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/scofield71/My-code-library/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/scofield71/My-code-library/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/scofield71/My-code-library/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/scofield71/My-code-library/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/scofield71/My-code-library/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/scofield71/My-code-library/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/scofield71/My-code-library/tree/master/0130-surrounded-regions) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/scofield71/My-code-library/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/scofield71/My-code-library/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/scofield71/My-code-library/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/scofield71/My-code-library/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
