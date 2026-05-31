@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/scofield71/My-code-library/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/scofield71/My-code-library/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/scofield71/My-code-library/tree/master/0130-surrounded-regions) |
+| [0152-maximum-product-subarray](https://github.com/scofield71/My-code-library/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/scofield71/My-code-library/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/scofield71/My-code-library/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/scofield71/My-code-library/tree/master/0219-contains-duplicate-ii) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/scofield71/My-code-library/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/scofield71/My-code-library/tree/master/0045-jump-game-ii) |
+| [0152-maximum-product-subarray](https://github.com/scofield71/My-code-library/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
