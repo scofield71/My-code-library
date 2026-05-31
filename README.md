@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/scofield71/My-code-library/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/scofield71/My-code-library/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/scofield71/My-code-library/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/scofield71/My-code-library/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/scofield71/My-code-library/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/scofield71/My-code-library/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/scofield71/My-code-library/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/scofield71/My-code-library/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/scofield71/My-code-library/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/scofield71/My-code-library/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/scofield71/My-code-library/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/scofield71/My-code-library/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/scofield71/My-code-library/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/scofield71/My-code-library/tree/master/0130-surrounded-regions) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/scofield71/My-code-library/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/scofield71/My-code-library/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/scofield71/My-code-library/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/scofield71/My-code-library/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/scofield71/My-code-library/tree/master/0347-top-k-frequent-elements) |
 | [0881-boats-to-save-people](https://github.com/scofield71/My-code-library/tree/master/0881-boats-to-save-people) |
