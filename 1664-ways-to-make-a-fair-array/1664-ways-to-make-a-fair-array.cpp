@@ -16,26 +16,26 @@ public:
             }
         }
         int ans = 0;
-        for(int i=0;i<oddSum.size();i++) {
-            int odd=0,even=0;
-            if(i==0) {
-                odd = evenSum[evenSum.size()-1];
-                even = oddSum[oddSum.size()-1]-oddSum[0];
-            } else {
-                odd = oddSum[i-1]+evenSum[evenSum.size()-1]-evenSum[i-1];
-                even = evenSum[i-1]+oddSum[oddSum.size()-1]-oddSum[i];
-            }
-            if(odd==even) ans++;
-        }
 
-        for(int i=0;i<evenSum.size();i++) {
-            int odd=0,even=0;
-            if(i==0) {
-                odd = oddSum[0] + evenSum[evenSum.size()-1]-evenSum[0];
-                even = oddSum[oddSum.size()-1]-oddSum[0];
+        for(int i=0;i<nums.size();i++) {
+            int ndx = i/2;
+            int odd = 0, even = 0;
+            if(i%2==0) {
+                if(i==0) {
+                    odd = evenSum[evenSum.size()-1];
+                    even = oddSum[oddSum.size()-1]-oddSum[0];
+                } else {
+                    odd = oddSum[ndx-1] + evenSum[evenSum.size()-1]-evenSum[ndx-1];
+                    even = evenSum[ndx-1]+oddSum[oddSum.size()-1]-oddSum[ndx];
+                }
             } else {
-                odd = oddSum[i] + evenSum[evenSum.size()-1]-evenSum[i];
-                even = evenSum[i-1] + oddSum[oddSum.size()-1]-oddSum[i];
+                if(i==1) {
+                    odd = oddSum[0] + evenSum[evenSum.size()-1]-evenSum[0];
+                    even = oddSum[oddSum.size()-1]-oddSum[0];
+                } else {
+                    odd = oddSum[ndx] + evenSum[evenSum.size()-1]-evenSum[ndx];
+                    even = evenSum[ndx-1] + oddSum[oddSum.size()-1]-oddSum[ndx];
+                }
             }
             if(odd==even) ans++;
         }
