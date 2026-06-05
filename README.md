@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/scofield71/My-code-library/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/scofield71/My-code-library/tree/master/0347-top-k-frequent-elements) |
 | [0752-open-the-lock](https://github.com/scofield71/My-code-library/tree/master/0752-open-the-lock) |
+| [0924-minimize-malware-spread](https://github.com/scofield71/My-code-library/tree/master/0924-minimize-malware-spread) |
 | [0953-verifying-an-alien-dictionary](https://github.com/scofield71/My-code-library/tree/master/0953-verifying-an-alien-dictionary) |
 ## Linked List
 |  |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/scofield71/My-code-library/tree/master/0752-open-the-lock) |
 | [0875-koko-eating-bananas](https://github.com/scofield71/My-code-library/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/scofield71/My-code-library/tree/master/0881-boats-to-save-people) |
+| [0924-minimize-malware-spread](https://github.com/scofield71/My-code-library/tree/master/0924-minimize-malware-spread) |
 | [0953-verifying-an-alien-dictionary](https://github.com/scofield71/My-code-library/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/scofield71/My-code-library/tree/master/0994-rotting-oranges) |
 | [1642-furthest-building-you-can-reach](https://github.com/scofield71/My-code-library/tree/master/1642-furthest-building-you-can-reach) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/scofield71/My-code-library/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/scofield71/My-code-library/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/scofield71/My-code-library/tree/master/0785-is-graph-bipartite) |
+| [0924-minimize-malware-spread](https://github.com/scofield71/My-code-library/tree/master/0924-minimize-malware-spread) |
 | [1462-course-schedule-iv](https://github.com/scofield71/My-code-library/tree/master/1462-course-schedule-iv) |
 ## Breadth-First Search
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/scofield71/My-code-library/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/scofield71/My-code-library/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/scofield71/My-code-library/tree/master/0785-is-graph-bipartite) |
+| [0924-minimize-malware-spread](https://github.com/scofield71/My-code-library/tree/master/0924-minimize-malware-spread) |
 | [0994-rotting-oranges](https://github.com/scofield71/My-code-library/tree/master/0994-rotting-oranges) |
 | [1462-course-schedule-iv](https://github.com/scofield71/My-code-library/tree/master/1462-course-schedule-iv) |
 ## Matrix
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/scofield71/My-code-library/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/scofield71/My-code-library/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/scofield71/My-code-library/tree/master/0785-is-graph-bipartite) |
+| [0924-minimize-malware-spread](https://github.com/scofield71/My-code-library/tree/master/0924-minimize-malware-spread) |
 ## Graph Theory
 |  |
 | ------- |
@@ -202,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/scofield71/My-code-library/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/scofield71/My-code-library/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/scofield71/My-code-library/tree/master/0785-is-graph-bipartite) |
+| [0924-minimize-malware-spread](https://github.com/scofield71/My-code-library/tree/master/0924-minimize-malware-spread) |
 | [1462-course-schedule-iv](https://github.com/scofield71/My-code-library/tree/master/1462-course-schedule-iv) |
 ## Topological Sort
 |  |
