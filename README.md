@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/scofield71/My-code-library/tree/master/0924-minimize-malware-spread) |
 | [0953-verifying-an-alien-dictionary](https://github.com/scofield71/My-code-library/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/scofield71/My-code-library/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/scofield71/My-code-library/tree/master/1004-max-consecutive-ones-iii) |
 | [1642-furthest-building-you-can-reach](https://github.com/scofield71/My-code-library/tree/master/1642-furthest-building-you-can-reach) |
 | [1664-ways-to-make-a-fair-array](https://github.com/scofield71/My-code-library/tree/master/1664-ways-to-make-a-fair-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/scofield71/My-code-library/tree/master/1991-find-the-middle-index-in-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/scofield71/My-code-library/tree/master/0540-single-element-in-a-sorted-array) |
 | [0731-my-calendar-ii](https://github.com/scofield71/My-code-library/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/scofield71/My-code-library/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/scofield71/My-code-library/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/scofield71/My-code-library/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/scofield71/My-code-library/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/scofield71/My-code-library/tree/master/0239-sliding-window-maximum) |
+| [1004-max-consecutive-ones-iii](https://github.com/scofield71/My-code-library/tree/master/1004-max-consecutive-ones-iii) |
 | [2653-sliding-subarray-beauty](https://github.com/scofield71/My-code-library/tree/master/2653-sliding-subarray-beauty) |
 ## Depth-First Search
 |  |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/scofield71/My-code-library/tree/master/0209-minimum-size-subarray-sum) |
 | [0731-my-calendar-ii](https://github.com/scofield71/My-code-library/tree/master/0731-my-calendar-ii) |
+| [1004-max-consecutive-ones-iii](https://github.com/scofield71/My-code-library/tree/master/1004-max-consecutive-ones-iii) |
 | [1664-ways-to-make-a-fair-array](https://github.com/scofield71/My-code-library/tree/master/1664-ways-to-make-a-fair-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/scofield71/My-code-library/tree/master/1991-find-the-middle-index-in-array) |
 ## Segment Tree
