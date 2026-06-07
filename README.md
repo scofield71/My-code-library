@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/scofield71/My-code-library/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/scofield71/My-code-library/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/scofield71/My-code-library/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/scofield71/My-code-library/tree/master/1162-as-far-from-land-as-possible) |
 | [1642-furthest-building-you-can-reach](https://github.com/scofield71/My-code-library/tree/master/1642-furthest-building-you-can-reach) |
 | [1664-ways-to-make-a-fair-array](https://github.com/scofield71/My-code-library/tree/master/1664-ways-to-make-a-fair-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/scofield71/My-code-library/tree/master/1991-find-the-middle-index-in-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/scofield71/My-code-library/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/scofield71/My-code-library/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/scofield71/My-code-library/tree/master/0213-house-robber-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/scofield71/My-code-library/tree/master/1162-as-far-from-land-as-possible) |
 ## Stack
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/scofield71/My-code-library/tree/master/0924-minimize-malware-spread) |
 | [0994-rotting-oranges](https://github.com/scofield71/My-code-library/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/scofield71/My-code-library/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/scofield71/My-code-library/tree/master/1162-as-far-from-land-as-possible) |
 | [1462-course-schedule-iv](https://github.com/scofield71/My-code-library/tree/master/1462-course-schedule-iv) |
 ## Matrix
 |  |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/scofield71/My-code-library/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/scofield71/My-code-library/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/scofield71/My-code-library/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1162-as-far-from-land-as-possible](https://github.com/scofield71/My-code-library/tree/master/1162-as-far-from-land-as-possible) |
 ## Union-Find
 |  |
 | ------- |
