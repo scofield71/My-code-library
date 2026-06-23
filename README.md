@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/scofield71/My-code-library/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/scofield71/My-code-library/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/scofield71/My-code-library/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/scofield71/My-code-library/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/scofield71/My-code-library/tree/master/0785-is-graph-bipartite) |
 | [0924-minimize-malware-spread](https://github.com/scofield71/My-code-library/tree/master/0924-minimize-malware-spread) |
 | [1462-course-schedule-iv](https://github.com/scofield71/My-code-library/tree/master/1462-course-schedule-iv) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/scofield71/My-code-library/tree/master/0463-island-perimeter) |
 | [0684-redundant-connection](https://github.com/scofield71/My-code-library/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/scofield71/My-code-library/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/scofield71/My-code-library/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/scofield71/My-code-library/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/scofield71/My-code-library/tree/master/0785-is-graph-bipartite) |
 | [0924-minimize-malware-spread](https://github.com/scofield71/My-code-library/tree/master/0924-minimize-malware-spread) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/scofield71/My-code-library/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/scofield71/My-code-library/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/scofield71/My-code-library/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/scofield71/My-code-library/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/scofield71/My-code-library/tree/master/0785-is-graph-bipartite) |
 | [0924-minimize-malware-spread](https://github.com/scofield71/My-code-library/tree/master/0924-minimize-malware-spread) |
 | [1462-course-schedule-iv](https://github.com/scofield71/My-code-library/tree/master/1462-course-schedule-iv) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/scofield71/My-code-library/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/scofield71/My-code-library/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/scofield71/My-code-library/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/scofield71/My-code-library/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/scofield71/My-code-library/tree/master/1642-furthest-building-you-can-reach) |
 ## Bucket Sort
@@ -343,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/scofield71/My-code-library/tree/master/0239-sliding-window-maximum) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/scofield71/My-code-library/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
