@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/scofield71/My-code-library/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1991-find-the-middle-index-in-array](https://github.com/scofield71/My-code-library/tree/master/1991-find-the-middle-index-in-array) |
 | [2653-sliding-subarray-beauty](https://github.com/scofield71/My-code-library/tree/master/2653-sliding-subarray-beauty) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/scofield71/My-code-library/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/scofield71/My-code-library/tree/master/1162-as-far-from-land-as-possible) |
 | [1462-course-schedule-iv](https://github.com/scofield71/My-code-library/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/scofield71/My-code-library/tree/master/1631-path-with-minimum-effort) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/scofield71/My-code-library/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/scofield71/My-code-library/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/scofield71/My-code-library/tree/master/1162-as-far-from-land-as-possible) |
 | [1631-path-with-minimum-effort](https://github.com/scofield71/My-code-library/tree/master/1631-path-with-minimum-effort) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/scofield71/My-code-library/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/scofield71/My-code-library/tree/master/0785-is-graph-bipartite) |
 | [0924-minimize-malware-spread](https://github.com/scofield71/My-code-library/tree/master/0924-minimize-malware-spread) |
 | [1462-course-schedule-iv](https://github.com/scofield71/My-code-library/tree/master/1462-course-schedule-iv) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/scofield71/My-code-library/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -277,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/scofield71/My-code-library/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/scofield71/My-code-library/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/scofield71/My-code-library/tree/master/1642-furthest-building-you-can-reach) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/scofield71/My-code-library/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -351,4 +356,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/scofield71/My-code-library/tree/master/0743-network-delay-time) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/scofield71/My-code-library/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
