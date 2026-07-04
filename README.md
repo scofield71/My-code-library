@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/scofield71/My-code-library/tree/master/1991-find-the-middle-index-in-array) |
 | [2653-sliding-subarray-beauty](https://github.com/scofield71/My-code-library/tree/master/2653-sliding-subarray-beauty) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/scofield71/My-code-library/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/scofield71/My-code-library/tree/master/3620-network-recovery-pathways) |
 ## Sorting
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/scofield71/My-code-library/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/scofield71/My-code-library/tree/master/1631-path-with-minimum-effort) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/scofield71/My-code-library/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [3620-network-recovery-pathways](https://github.com/scofield71/My-code-library/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/scofield71/My-code-library/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/scofield71/My-code-library/tree/master/0213-house-robber-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/scofield71/My-code-library/tree/master/1162-as-far-from-land-as-possible) |
+| [3620-network-recovery-pathways](https://github.com/scofield71/My-code-library/tree/master/3620-network-recovery-pathways) |
 ## Stack
 |  |
 | ------- |
@@ -250,12 +253,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/scofield71/My-code-library/tree/master/0924-minimize-malware-spread) |
 | [1462-course-schedule-iv](https://github.com/scofield71/My-code-library/tree/master/1462-course-schedule-iv) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/scofield71/My-code-library/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/scofield71/My-code-library/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/scofield71/My-code-library/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/scofield71/My-code-library/tree/master/0210-course-schedule-ii) |
 | [1462-course-schedule-iv](https://github.com/scofield71/My-code-library/tree/master/1462-course-schedule-iv) |
+| [3620-network-recovery-pathways](https://github.com/scofield71/My-code-library/tree/master/3620-network-recovery-pathways) |
 ## Backtracking
 |  |
 | ------- |
@@ -282,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/scofield71/My-code-library/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/scofield71/My-code-library/tree/master/1642-furthest-building-you-can-reach) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/scofield71/My-code-library/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/scofield71/My-code-library/tree/master/3620-network-recovery-pathways) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -357,4 +363,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/scofield71/My-code-library/tree/master/0743-network-delay-time) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/scofield71/My-code-library/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/scofield71/My-code-library/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
