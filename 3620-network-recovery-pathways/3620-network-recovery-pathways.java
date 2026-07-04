@@ -1,23 +1,6 @@
 record Pair<K, V>(K first, V second) {}
 class Solution {
-    public boolean isPossible(int[][] edges, boolean[] online, long k, int minAns) {
-        HashMap<Integer,ArrayList<Pair<Integer,Integer>>> map = new HashMap<>();
-        for (int i=0;i<edges.length;i++) {
-            int source = edges[i][0];
-            int dest = edges[i][1];
-            int cost = edges[i][2];
-            if (!online[source] || !online[dest]) continue;
-            map.putIfAbsent(source,new ArrayList<Pair<Integer,Integer>>());
-            map.get(source).add(new Pair<>(dest,cost));
-        }
-        for (int i=0;i<edges.length;i++) {
-            int source = edges[i][0];
-            int dest = edges[i][1];
-            int cost = edges[i][2];
-            if (!online[source] || !online[dest]) continue;
-            map.putIfAbsent(source,new ArrayList<Pair<Integer,Integer>>());
-            map.get(source).add(new Pair<>(dest,cost));
-        }
+    public boolean isPossible(int[][] edges, boolean[] online, long k, int minAns,HashMap<Integer,ArrayList<Pair<Integer,Integer>>> map) {
         long[] costs = new long[online.length];
         PriorityQueue<Pair<Long,Long>> pq = new PriorityQueue<>((a,b) -> Long.compare(a.second(),b.second()));
         for(int i=1;i<online.length;i++) costs[i]=Long.MAX_VALUE;
@@ -45,11 +28,20 @@ class Solution {
         return costs[online.length-1]!=-1 && costs[online.length-1]<=k;
     }
     public int findMaxPathScore(int[][] edges, boolean[] online, long k) {
+        HashMap<Integer,ArrayList<Pair<Integer,Integer>>> map = new HashMap<>();
+        for (int i=0;i<edges.length;i++) {
+            int source = edges[i][0];
+            int dest = edges[i][1];
+            int cost = edges[i][2];
+            if (!online[source] || !online[dest]) continue;
+            map.putIfAbsent(source,new ArrayList<Pair<Integer,Integer>>());
+            map.get(source).add(new Pair<>(dest,cost));
+        }
         int low = 0, high = Integer.MAX_VALUE-1;
         int ans = -1;
         while(low<=high) {
             int mid = low + (high-low)/2;
-            if(isPossible(edges,online,k,mid)) {
+            if(isPossible(edges,online,k,mid,map)) {
                 low=mid+1;
                 ans = Math.max(ans,mid);
             }
