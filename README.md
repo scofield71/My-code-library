@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/scofield71/My-code-library/tree/master/0752-open-the-lock) |
 | [0953-verifying-an-alien-dictionary](https://github.com/scofield71/My-code-library/tree/master/0953-verifying-an-alien-dictionary) |
 | [1768-merge-strings-alternately](https://github.com/scofield71/My-code-library/tree/master/1768-merge-strings-alternately) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/scofield71/My-code-library/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/scofield71/My-code-library/tree/master/1004-max-consecutive-ones-iii) |
 | [1664-ways-to-make-a-fair-array](https://github.com/scofield71/My-code-library/tree/master/1664-ways-to-make-a-fair-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/scofield71/My-code-library/tree/master/1991-find-the-middle-index-in-array) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/scofield71/My-code-library/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -382,4 +384,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/scofield71/My-code-library/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/scofield71/My-code-library/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
