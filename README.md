@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/scofield71/My-code-library/tree/master/0924-minimize-malware-spread) |
 | [0953-verifying-an-alien-dictionary](https://github.com/scofield71/My-code-library/tree/master/0953-verifying-an-alien-dictionary) |
 | [2653-sliding-subarray-beauty](https://github.com/scofield71/My-code-library/tree/master/2653-sliding-subarray-beauty) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/scofield71/My-code-library/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/scofield71/My-code-library/tree/master/1991-find-the-middle-index-in-array) |
 | [2653-sliding-subarray-beauty](https://github.com/scofield71/My-code-library/tree/master/2653-sliding-subarray-beauty) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/scofield71/My-code-library/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/scofield71/My-code-library/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/scofield71/My-code-library/tree/master/3620-network-recovery-pathways) |
 ## Sorting
 |  |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/scofield71/My-code-library/tree/master/1004-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/scofield71/My-code-library/tree/master/1631-path-with-minimum-effort) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/scofield71/My-code-library/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/scofield71/My-code-library/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/scofield71/My-code-library/tree/master/3620-network-recovery-pathways) |
 ## Dynamic Programming
 |  |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/scofield71/My-code-library/tree/master/0924-minimize-malware-spread) |
 | [1631-path-with-minimum-effort](https://github.com/scofield71/My-code-library/tree/master/1631-path-with-minimum-effort) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/scofield71/My-code-library/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/scofield71/My-code-library/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1462-course-schedule-iv](https://github.com/scofield71/My-code-library/tree/master/1462-course-schedule-iv) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/scofield71/My-code-library/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/scofield71/My-code-library/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/scofield71/My-code-library/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/scofield71/My-code-library/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
