@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/scofield71/My-code-library/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/scofield71/My-code-library/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/scofield71/My-code-library/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/scofield71/My-code-library/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/scofield71/My-code-library/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/scofield71/My-code-library/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/scofield71/My-code-library/tree/master/0075-sort-colors) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/scofield71/My-code-library/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/scofield71/My-code-library/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/scofield71/My-code-library/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/scofield71/My-code-library/tree/master/0142-linked-list-cycle-ii) |
