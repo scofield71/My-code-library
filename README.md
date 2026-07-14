@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/scofield71/My-code-library/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/scofield71/My-code-library/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/scofield71/My-code-library/tree/master/0881-boats-to-save-people) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/scofield71/My-code-library/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1642-furthest-building-you-can-reach](https://github.com/scofield71/My-code-library/tree/master/1642-furthest-building-you-can-reach) |
 ## Hash Table
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/scofield71/My-code-library/tree/master/1162-as-far-from-land-as-possible) |
 | [1288-remove-covered-intervals](https://github.com/scofield71/My-code-library/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/scofield71/My-code-library/tree/master/1301-number-of-paths-with-max-score) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/scofield71/My-code-library/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1631-path-with-minimum-effort](https://github.com/scofield71/My-code-library/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/scofield71/My-code-library/tree/master/1642-furthest-building-you-can-reach) |
 | [1664-ways-to-make-a-fair-array](https://github.com/scofield71/My-code-library/tree/master/1664-ways-to-make-a-fair-array) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/scofield71/My-code-library/tree/master/0213-house-robber-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/scofield71/My-code-library/tree/master/1162-as-far-from-land-as-possible) |
 | [1301-number-of-paths-with-max-score](https://github.com/scofield71/My-code-library/tree/master/1301-number-of-paths-with-max-score) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/scofield71/My-code-library/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [3620-network-recovery-pathways](https://github.com/scofield71/My-code-library/tree/master/3620-network-recovery-pathways) |
 ## Stack
 |  |
