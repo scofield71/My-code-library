@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/scofield71/My-code-library/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/scofield71/My-code-library/tree/master/0173-binary-search-tree-iterator) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/scofield71/My-code-library/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0731-my-calendar-ii](https://github.com/scofield71/My-code-library/tree/master/0731-my-calendar-ii) |
 ## Doubly-Linked List
 |  |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/scofield71/My-code-library/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/scofield71/My-code-library/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/scofield71/My-code-library/tree/master/0347-top-k-frequent-elements) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/scofield71/My-code-library/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/scofield71/My-code-library/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/scofield71/My-code-library/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/scofield71/My-code-library/tree/master/1642-furthest-building-you-can-reach) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/scofield71/My-code-library/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/scofield71/My-code-library/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/scofield71/My-code-library/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/scofield71/My-code-library/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -348,11 +351,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/scofield71/My-code-library/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/scofield71/My-code-library/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/scofield71/My-code-library/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/scofield71/My-code-library/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/scofield71/My-code-library/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/scofield71/My-code-library/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/scofield71/My-code-library/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Iterator
 |  |
 | ------- |
@@ -418,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/scofield71/My-code-library/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/scofield71/My-code-library/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/scofield71/My-code-library/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
