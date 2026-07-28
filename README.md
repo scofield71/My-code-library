@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-verifying-an-alien-dictionary](https://github.com/scofield71/My-code-library/tree/master/0953-verifying-an-alien-dictionary) |
 | [1768-merge-strings-alternately](https://github.com/scofield71/My-code-library/tree/master/1768-merge-strings-alternately) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/scofield71/My-code-library/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/scofield71/My-code-library/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/scofield71/My-code-library/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/scofield71/My-code-library/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/scofield71/My-code-library/tree/master/0881-boats-to-save-people) |
 | [1288-remove-covered-intervals](https://github.com/scofield71/My-code-library/tree/master/1288-remove-covered-intervals) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/scofield71/My-code-library/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/scofield71/My-code-library/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/scofield71/My-code-library/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -437,4 +439,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/scofield71/My-code-library/tree/master/0703-kth-largest-element-in-a-stream) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/scofield71/My-code-library/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
