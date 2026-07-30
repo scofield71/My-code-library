@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/scofield71/My-code-library/tree/master/0752-open-the-lock) |
 | [0953-verifying-an-alien-dictionary](https://github.com/scofield71/My-code-library/tree/master/0953-verifying-an-alien-dictionary) |
 | [1768-merge-strings-alternately](https://github.com/scofield71/My-code-library/tree/master/1768-merge-strings-alternately) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/scofield71/My-code-library/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/scofield71/My-code-library/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/scofield71/My-code-library/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/scofield71/My-code-library/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/scofield71/My-code-library/tree/master/0881-boats-to-save-people) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/scofield71/My-code-library/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1642-furthest-building-you-can-reach](https://github.com/scofield71/My-code-library/tree/master/1642-furthest-building-you-can-reach) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/scofield71/My-code-library/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/scofield71/My-code-library/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/scofield71/My-code-library/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/scofield71/My-code-library/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/scofield71/My-code-library/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/scofield71/My-code-library/tree/master/3658-gcd-of-odd-and-even-sums) |
