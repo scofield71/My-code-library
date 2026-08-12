@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-minimize-malware-spread](https://github.com/scofield71/My-code-library/tree/master/0924-minimize-malware-spread) |
 | [0953-verifying-an-alien-dictionary](https://github.com/scofield71/My-code-library/tree/master/0953-verifying-an-alien-dictionary) |
 | [2653-sliding-subarray-beauty](https://github.com/scofield71/My-code-library/tree/master/2653-sliding-subarray-beauty) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/scofield71/My-code-library/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/scofield71/My-code-library/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Linked List
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/scofield71/My-code-library/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1991-find-the-middle-index-in-array](https://github.com/scofield71/My-code-library/tree/master/1991-find-the-middle-index-in-array) |
 | [2653-sliding-subarray-beauty](https://github.com/scofield71/My-code-library/tree/master/2653-sliding-subarray-beauty) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/scofield71/My-code-library/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/scofield71/My-code-library/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/scofield71/My-code-library/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/scofield71/My-code-library/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/scofield71/My-code-library/tree/master/0239-sliding-window-maximum) |
 | [1004-max-consecutive-ones-iii](https://github.com/scofield71/My-code-library/tree/master/1004-max-consecutive-ones-iii) |
 | [2653-sliding-subarray-beauty](https://github.com/scofield71/My-code-library/tree/master/2653-sliding-subarray-beauty) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/scofield71/My-code-library/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Depth-First Search
 |  |
 | ------- |
