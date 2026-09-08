@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/scofield71/My-code-library/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/scofield71/My-code-library/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/scofield71/My-code-library/tree/master/0209-minimum-size-subarray-sum) |
+| [0374-guess-number-higher-or-lower](https://github.com/scofield71/My-code-library/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/scofield71/My-code-library/tree/master/0540-single-element-in-a-sorted-array) |
 | [0731-my-calendar-ii](https://github.com/scofield71/My-code-library/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/scofield71/My-code-library/tree/master/0875-koko-eating-bananas) |
@@ -451,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/scofield71/My-code-library/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/scofield71/My-code-library/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
