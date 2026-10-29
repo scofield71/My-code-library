@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/scofield71/My-code-library/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/scofield71/My-code-library/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/scofield71/My-code-library/tree/master/0213-house-robber-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/scofield71/My-code-library/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1162-as-far-from-land-as-possible](https://github.com/scofield71/My-code-library/tree/master/1162-as-far-from-land-as-possible) |
 | [1301-number-of-paths-with-max-score](https://github.com/scofield71/My-code-library/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/scofield71/My-code-library/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/scofield71/My-code-library/tree/master/0695-max-area-of-island) |
 | [0743-network-delay-time](https://github.com/scofield71/My-code-library/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/scofield71/My-code-library/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/scofield71/My-code-library/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0924-minimize-malware-spread](https://github.com/scofield71/My-code-library/tree/master/0924-minimize-malware-spread) |
 | [1462-course-schedule-iv](https://github.com/scofield71/My-code-library/tree/master/1462-course-schedule-iv) |
 | [1631-path-with-minimum-effort](https://github.com/scofield71/My-code-library/tree/master/1631-path-with-minimum-effort) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/scofield71/My-code-library/tree/master/0743-network-delay-time) |
 | [0752-open-the-lock](https://github.com/scofield71/My-code-library/tree/master/0752-open-the-lock) |
 | [0785-is-graph-bipartite](https://github.com/scofield71/My-code-library/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/scofield71/My-code-library/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0924-minimize-malware-spread](https://github.com/scofield71/My-code-library/tree/master/0924-minimize-malware-spread) |
 | [0994-rotting-oranges](https://github.com/scofield71/My-code-library/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/scofield71/My-code-library/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/scofield71/My-code-library/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/scofield71/My-code-library/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/scofield71/My-code-library/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/scofield71/My-code-library/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0924-minimize-malware-spread](https://github.com/scofield71/My-code-library/tree/master/0924-minimize-malware-spread) |
 | [1462-course-schedule-iv](https://github.com/scofield71/My-code-library/tree/master/1462-course-schedule-iv) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/scofield71/My-code-library/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/scofield71/My-code-library/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/scofield71/My-code-library/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/scofield71/My-code-library/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/scofield71/My-code-library/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/scofield71/My-code-library/tree/master/1631-path-with-minimum-effort) |
 | [1642-furthest-building-you-can-reach](https://github.com/scofield71/My-code-library/tree/master/1642-furthest-building-you-can-reach) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/scofield71/My-code-library/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -419,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/scofield71/My-code-library/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/scofield71/My-code-library/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/scofield71/My-code-library/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/scofield71/My-code-library/tree/master/3620-network-recovery-pathways) |
 ## Math
