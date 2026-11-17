@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/scofield71/My-code-library/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/scofield71/My-code-library/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/scofield71/My-code-library/tree/master/0055-jump-game) |
+| [0624-maximum-distance-in-arrays](https://github.com/scofield71/My-code-library/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/scofield71/My-code-library/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/scofield71/My-code-library/tree/master/0881-boats-to-save-people) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/scofield71/My-code-library/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/scofield71/My-code-library/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/scofield71/My-code-library/tree/master/0463-island-perimeter) |
 | [0540-single-element-in-a-sorted-array](https://github.com/scofield71/My-code-library/tree/master/0540-single-element-in-a-sorted-array) |
+| [0624-maximum-distance-in-arrays](https://github.com/scofield71/My-code-library/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/scofield71/My-code-library/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/scofield71/My-code-library/tree/master/0695-max-area-of-island) |
 | [0731-my-calendar-ii](https://github.com/scofield71/My-code-library/tree/master/0731-my-calendar-ii) |
