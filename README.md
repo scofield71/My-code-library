@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/scofield71/My-code-library/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1642-furthest-building-you-can-reach](https://github.com/scofield71/My-code-library/tree/master/1642-furthest-building-you-can-reach) |
 | [1975-maximum-matrix-sum](https://github.com/scofield71/My-code-library/tree/master/1975-maximum-matrix-sum) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/scofield71/My-code-library/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/scofield71/My-code-library/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/scofield71/My-code-library/tree/master/1975-maximum-matrix-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/scofield71/My-code-library/tree/master/1991-find-the-middle-index-in-array) |
 | [2653-sliding-subarray-beauty](https://github.com/scofield71/My-code-library/tree/master/2653-sliding-subarray-beauty) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/scofield71/My-code-library/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/scofield71/My-code-library/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/scofield71/My-code-library/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/scofield71/My-code-library/tree/master/3513-number-of-unique-xor-triplets-i) |
