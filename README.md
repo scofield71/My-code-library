@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/scofield71/My-code-library/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/scofield71/My-code-library/tree/master/0213-house-robber-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/scofield71/My-code-library/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1137-n-th-tribonacci-number](https://github.com/scofield71/My-code-library/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/scofield71/My-code-library/tree/master/1162-as-far-from-land-as-possible) |
 | [1301-number-of-paths-with-max-score](https://github.com/scofield71/My-code-library/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/scofield71/My-code-library/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/scofield71/My-code-library/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/scofield71/My-code-library/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/scofield71/My-code-library/tree/master/0628-maximum-product-of-three-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/scofield71/My-code-library/tree/master/1137-n-th-tribonacci-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/scofield71/My-code-library/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/scofield71/My-code-library/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/scofield71/My-code-library/tree/master/3536-maximum-product-of-two-digits) |
@@ -482,4 +484,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/scofield71/My-code-library/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/scofield71/My-code-library/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
